@@ -1,5 +1,6 @@
-# HOW-TO-GET-IP-IN-DJANGO
-easily get ip in djnago simple method
+# How-To-Get-IP-In-Django
+
+Retrieving the user's IP address in Django is straightforward, thanks to the framework's robust request handling. By accessing the request. META dictionary, you can easily get the necessary information. This can be particularly useful for logging, analytics, or applying custom logic based on the user's location
 
 
 ## MODELS 
